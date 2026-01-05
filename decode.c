@@ -1,29 +1,3 @@
-////////////////////////////////////////////////////////////////////////////////
-// Main File:        decode.c
-// This File:        decode.c
-// Other Files:      none
-// Semester:         CS 354 Lecture 001 Fall 2025
-// Grade Group:      gg1
-// Instructor:       Hina Mahmood
-//
-// Author:           Macy Xiang
-// Email:            yxiang37@wisc.edu
-// CS Login:         yxiamg37
-//
-//////////////////// REQUIRED -- OTHER SOURCES OF HELP /////////////////////////
-// Persons:          none
-//
-// Online sources:   none
-//
-// AI chats:         none
-//////////////////////////// 80 columns wide ///////////////////////////////////
-//
-////////////////////////////////////////////////////////////////////////////////
-// Copyright 2019 Jim Skrentny
-// Posting or sharing this file is prohibited, including any changes/additions.
-// Used by permission, Dr. Hina Mahmood, FALL 2025
-////////////////////////////////////////////////////////////////////////////////
-
 /*
  * This program decodes cipher texts using the Caesar cipher technique. 
  * Left shifts are used to encode the message and 
